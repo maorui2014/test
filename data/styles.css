@@ -7,17 +7,9 @@
   text-align:center;
   line-height:normal;
 }
-.box_1 {
+._形状 {
 }
-.box_2 {
-}
-.box_3 {
-}
-.ellipse {
-}
-.image {
-}
-.placeholder {
+._图片 {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -60,69 +52,48 @@
   font-size:10px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
-.horizontal_line {
-}
 ._文本段落 {
-  text-align:left;
-}
-.checkbox {
   text-align:left;
 }
 ._流程形状 {
 }
-.tree_node {
+.box_2 {
+}
+.box_3 {
+}
+.placeholder {
+}
+.label {
+  font-size:14px;
   text-align:left;
 }
-.menu_item {
+.image {
 }
-.paragraph {
-  text-align:left;
+.box_1 {
 }
-.line {
+._图片1 {
 }
-.heading_1 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:32px;
-  text-align:left;
+.ellipse {
 }
-.heading_2 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
-  font-weight:700;
-  font-style:normal;
-  font-size:24px;
+.text_field {
+  color:#000000;
   text-align:left;
 }
 .shape {
-}
-.image1 {
-  color:#000000;
-}
-.vertical_line {
-}
-.iconfont {
-  font-family:'iconfont Regular', 'iconfont';
-  font-weight:400;
-  font-style:normal;
-  font-size:18px;
-  color:#666666;
 }
 .primary_button {
   color:#FFFFFF;
 }
 .button {
 }
-.text_field {
-  color:#000000;
+.tree_node {
   text-align:left;
 }
 .droplist {
   color:#000000;
+  text-align:left;
+}
+.checkbox {
   text-align:left;
 }
 .text_area {
@@ -132,11 +103,11 @@
 .radio_button {
   text-align:left;
 }
-.arrow {
+.line {
 }
 .list_box {
   color:#000000;
   text-align:left;
 }
-.icon {
+.flow_shape {
 }
